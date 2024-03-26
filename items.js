@@ -37,7 +37,7 @@ const item = [
 },
 {
     id : '004',
-    item_img : 'Images/cm5.jpg',
+    item_img : 'Images/cm2.jpg',
     rating:{
         stars: 4.5,
         review:1400,
@@ -143,4 +143,41 @@ const item = [
     original_price: 3000,
     discount: 30,
 },
+{
+    id : '013',
+    item_img : 'Images/cm1.jpg',
+    rating:{
+        stars: 4.5,
+        review:1400,
+    },
+    item_name : "DCK Cutter Machine",
+    current_price : 2000,
+    original_price: 3000,
+    discount: 30,
+},
+{
+    id : '014',
+    item_img : 'Images/cm1.jpg',
+    rating:{
+        stars: 4.5,
+        review:1400,
+    },
+    item_name : "DCK Cutter Machine",
+    current_price : 2000,
+    original_price: 3000,
+    discount: 30,
+},
+{
+    id : '015',
+    item_img : 'Images/cm1.jpg',
+    rating:{
+        stars: 4.5,
+        review:1400,
+    },
+    item_name : "DCK Cutter Machine",
+    current_price : 2000,
+    original_price: 3000,
+    discount: 30,
+},
+
 ]
